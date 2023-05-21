@@ -1,0 +1,1 @@
+-keep class com.example.movies_must_watch.BuildConfig { *; }
